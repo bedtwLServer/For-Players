@@ -1,0 +1,6017 @@
+items:
+  STONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRANITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_GRANITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIORITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DIORITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANDESITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_ANDESITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLED_DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CALCITE:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_TUFF:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_TUFF:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_TUFF_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_TUFF_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_TUFF_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUFF_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_TUFF_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRIPSTONE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRASS_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIRT:
+    sell: -1
+    buy: -1
+    buyType: none
+  COARSE_DIRT:
+    sell: -1
+    buy: -1
+    buyType: none
+  PODZOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  ROOTED_DIRT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_NYLIUM:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_NYLIUM:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLESTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_PLANKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_MOSAIC:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_SAPLING:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_PROPAGULE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEDROCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUSPICIOUS_SAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUSPICIOUS_GRAVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  COAL_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_COAL_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_IRON_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_COPPER_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLD_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_GOLD_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  REDSTONE_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_REDSTONE_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  EMERALD_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_EMERALD_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LAPIS_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_LAPIS_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_DIAMOND_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_GOLD_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_QUARTZ_ORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANCIENT_DEBRIS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_IRON_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_COPPER_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_GOLD_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  HEAVY_CORE:
+    sell: -1
+    buy: -1
+    buyType: none
+  AMETHYST_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUDDING_AMETHYST:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLD_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_CHISELED_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_CUT_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_CUT_COPPER_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_CUT_COPPER_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_ROOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUDDY_MANGROVE_ROOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_STEM:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_STEM:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_SPRUCE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_BIRCH_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_JUNGLE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_ACACIA_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_CHERRY_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_DARK_OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_PALE_OAK_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_MANGROVE_LOG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_CRIMSON_STEM:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_WARPED_STEM:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_SPRUCE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_BIRCH_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_JUNGLE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_ACACIA_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_CHERRY_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_DARK_OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_PALE_OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_MANGROVE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_CRIMSON_HYPHAE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_WARPED_HYPHAE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIPPED_BAMBOO_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_WOOD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_HYPHAE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_HYPHAE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  AZALEA_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOWERING_AZALEA_LEAVES:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPONGE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WET_SPONGE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  TINTED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LAPIS_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBWEB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHORT_GRASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  FERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUSH:
+    sell: -1
+    buy: -1
+    buyType: none
+  AZALEA:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOWERING_AZALEA:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BUSH:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIREFLY_BUSH:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHORT_DRY_GRASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  TALL_DRY_GRASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SEAGRASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SEA_PICKLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_WOOL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DANDELION:
+    sell: -1
+    buy: -1
+    buyType: none
+  OPEN_EYEBLOSSOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  CLOSED_EYEBLOSSOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  POPPY:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_ORCHID:
+    sell: -1
+    buy: -1
+    buyType: none
+  ALLIUM:
+    sell: -1
+    buy: -1
+    buyType: none
+  AZURE_BLUET:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_TULIP:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_TULIP:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_TULIP:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_TULIP:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXEYE_DAISY:
+    sell: -1
+    buy: -1
+    buyType: none
+  CORNFLOWER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LILY_OF_THE_VALLEY:
+    sell: -1
+    buy: -1
+    buyType: none
+  WITHER_ROSE:
+    sell: -1
+    buy: -1
+    buyType: none
+  TORCHFLOWER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PITCHER_PLANT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPORE_BLOSSOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_MUSHROOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_MUSHROOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_FUNGUS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_FUNGUS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_ROOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_ROOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_SPROUTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEEPING_VINES:
+    sell: -1
+    buy: -1
+    buyType: none
+  TWISTING_VINES:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUGAR_CANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  KELP:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_PETALS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WILDFLOWERS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEAF_LITTER:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSS_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSS_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_MOSS_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_HANGING_MOSS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_MOSS_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  HANGING_ROOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIG_DRIPLEAF:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMALL_DRIPLEAF:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_MOSAIC_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_STONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  PETRIFIED_OAK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLESTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUD_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_RED_SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPUR_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_PRISMARINE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_QUARTZ:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_RED_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_STONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_SHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOOKSHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_BOOKSHELF:
+    sell: -1
+    buy: -1
+    buyType: none
+  DECORATED_POT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_COBBLESTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OBSIDIAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  TORCH:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHORUS_PLANT:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHORUS_FLOWER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPUR_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPUR_PILLAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPUR_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPAWNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CREAKING_HEART:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRAFTING_TABLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FARMLAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  FURNACE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LADDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLESTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNOW:
+    sell: -1
+    buy: -1
+    buyType: none
+  ICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNOW_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  CACTUS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CACTUS_FLOWER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CLAY:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUKEBOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUMPKIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CARVED_PUMPKIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  JACK_O_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERRACK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SOUL_SAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  SOUL_SOIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BASALT:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BASALT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_BASALT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SOUL_TORCH:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_TORCH:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOWSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_STONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_COBBLESTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_MOSSY_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_CRACKED_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_CHISELED_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  INFESTED_DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRACKED_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PACKED_MUD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUD_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRACKED_DEEPSLATE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_TILES:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRACKED_DEEPSLATE_TILES:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  REINFORCED_DEEPSLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_MUSHROOM_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_MUSHROOM_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSHROOM_STEM:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_BARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_CHAIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MELON:
+    sell: -1
+    buy: -1
+    buyType: none
+  VINE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOW_LICHEN:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_CLUMP:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_RESIN_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUD_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MYCELIUM:
+    sell: -1
+    buy: -1
+    buyType: none
+  LILY_PAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRACKED_NETHER_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_NETHER_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICK_FENCE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCULK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCULK_VEIN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCULK_CATALYST:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCULK_SHRIEKER:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENCHANTING_TABLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_PORTAL_FRAME:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_STONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_STONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRAGON_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SANDSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  EMERALD_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_MOSAIC_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COMMAND_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEACON:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLESTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_COBBLESTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SANDSTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_STONE_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRANITE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUD_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANDESITE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_NETHER_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  SANDSTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_STONE_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIORITE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACKSTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLED_DEEPSLATE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DEEPSLATE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_BRICK_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_TILE_WALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANVIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHIPPED_ANVIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DAMAGED_ANVIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_QUARTZ_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ_PILLAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BARRIER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT:
+    sell: -1
+    buy: -1
+    buyType: none
+  HAY_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_CARPET:
+    sell: -1
+    buy: -1
+    buyType: none
+  TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  PACKED_ICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIRT_PATH:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUNFLOWER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LILAC:
+    sell: -1
+    buy: -1
+    buyType: none
+  ROSE_BUSH:
+    sell: -1
+    buy: -1
+    buyType: none
+  PEONY:
+    sell: -1
+    buy: -1
+    buyType: none
+  TALL_GRASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LARGE_FERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_STAINED_GLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_STAINED_GLASS_PANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_PRISMARINE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_PRISMARINE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SEA_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_RED_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CUT_RED_SANDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SANDSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  REPEATING_COMMAND_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHAIN_COMMAND_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGMA_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_WART_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_WART_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_NETHER_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BONE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRUCTURE_VOID:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_SHULKER_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_GLAZED_TERRACOTTA:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_CONCRETE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_CONCRETE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  TURTLE_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNIFFER_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRIED_GHAST:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_TUBE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BRAIN_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BUBBLE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_FIRE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_HORN_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUBE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRAIN_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUBBLE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIRE_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  HORN_CORAL_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUBE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRAIN_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUBBLE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIRE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  HORN_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BRAIN_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BUBBLE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_FIRE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_HORN_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_TUBE_CORAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  TUBE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRAIN_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUBBLE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIRE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  HORN_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_TUBE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BRAIN_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_BUBBLE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_FIRE_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEAD_HORN_CORAL_FAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_ICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CONDUIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_GRANITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_STONE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DIORITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_COBBLESTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_STONE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_SANDSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_QUARTZ_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRANITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANDESITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_NETHER_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_ANDESITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIORITE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLED_DEEPSLATE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DEEPSLATE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_TILE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_GRANITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_RED_SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_STONE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DIORITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOSSY_COBBLESTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_STONE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_SANDSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOOTH_QUARTZ_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRANITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANDESITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_NETHER_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_ANDESITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIORITE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  COBBLED_DEEPSLATE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_DEEPSLATE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEEPSLATE_TILE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCAFFOLDING:
+    sell: -1
+    buy: -1
+    buyType: none
+  REDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  REDSTONE_TORCH:
+    sell: -1
+    buy: -1
+    buyType: none
+  REDSTONE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  REPEATER:
+    sell: -1
+    buy: -1
+    buyType: none
+  COMPARATOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  PISTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  STICKY_PISTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  SLIME_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  HONEY_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  OBSERVER:
+    sell: -1
+    buy: -1
+    buyType: none
+  HOPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  DISPENSER:
+    sell: -1
+    buy: -1
+    buyType: none
+  DROPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LECTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  TARGET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEVER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_LIGHTNING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  DAYLIGHT_DETECTOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCULK_SENSOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CALIBRATED_SCULK_SENSOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRIPWIRE_HOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRAPPED_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  TNT:
+    sell: -1
+    buy: -1
+    buyType: none
+  REDSTONE_LAMP:
+    sell: -1
+    buy: -1
+    buyType: none
+  NOTE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_BUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_WEIGHTED_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  HEAVY_WEIGHTED_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_PRESSURE_PLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_DOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_TRAPDOOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_FENCE_GATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POWERED_RAIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DETECTOR_RAIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACTIVATOR_RAIL:
+    sell: -1
+    buy: -1
+    buyType: none
+  SADDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_HARNESS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHEST_MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  FURNACE_MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  TNT_MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  HOPPER_MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  CARROT_ON_A_STICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_FUNGUS_ON_A_STICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  PHANTOM_MEMBRANE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ELYTRA:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_CHEST_BOAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_RAFT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_CHEST_RAFT:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRUCTURE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  JIGSAW:
+    sell: -1
+    buy: -1
+    buyType: none
+  TEST_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  TEST_INSTANCE_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  TURTLE_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  TURTLE_SCUTE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARMADILLO_SCUTE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOLF_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLINT_AND_STEEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOWL:
+    sell: -1
+    buy: -1
+    buyType: none
+  APPLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOW:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARROW:
+    sell: -1
+    buy: -1
+    buyType: none
+  COAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHARCOAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND:
+    sell: -1
+    buy: -1
+    buyType: none
+  EMERALD:
+    sell: -1
+    buy: -1
+    buyType: none
+  LAPIS_LAZULI:
+    sell: -1
+    buy: -1
+    buyType: none
+  QUARTZ:
+    sell: -1
+    buy: -1
+    buyType: none
+  AMETHYST_SHARD:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_IRON:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_INGOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_COPPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_INGOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAW_GOLD:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLD_INGOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_INGOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_SCRAP:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_SWORD:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_SHOVEL:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_PICKAXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_AXE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_HOE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSHROOM_STEW:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRING:
+    sell: -1
+    buy: -1
+    buyType: none
+  FEATHER:
+    sell: -1
+    buy: -1
+    buyType: none
+  GUNPOWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHEAT_SEEDS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHEAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BREAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHAINMAIL_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHAINMAIL_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHAINMAIL_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHAINMAIL_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_HELMET:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_CHESTPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_LEGGINGS:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_BOOTS:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLINT:
+    sell: -1
+    buy: -1
+    buyType: none
+  PORKCHOP:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_PORKCHOP:
+    sell: -1
+    buy: -1
+    buyType: none
+  PAINTING:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_APPLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENCHANTED_GOLDEN_APPLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  OAK_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPRUCE_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BIRCH_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  JUNGLE_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  ACACIA_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHERRY_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  DARK_OAK_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  PALE_OAK_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  MANGROVE_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAMBOO_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRIMSON_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARPED_HANGING_SIGN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  WATER_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  LAVA_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  POWDER_SNOW_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNOWBALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER:
+    sell: -1
+    buy: -1
+    buyType: none
+  MILK_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUFFERFISH_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  SALMON_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  COD_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  TROPICAL_FISH_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  AXOLOTL_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  TADPOLE_BUCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  CLAY_BALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRIED_KELP_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  PAPER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SLIME_BALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  COMPASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RECOVERY_COMPASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_BUNDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FISHING_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPYGLASS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOWSTONE_DUST:
+    sell: -1
+    buy: -1
+    buyType: none
+  COD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SALMON:
+    sell: -1
+    buy: -1
+    buyType: none
+  TROPICAL_FISH:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUFFERFISH:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_COD:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_SALMON:
+    sell: -1
+    buy: -1
+    buyType: none
+  INK_SAC:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOW_INK_SAC:
+    sell: -1
+    buy: -1
+    buyType: none
+  COCOA_BEANS:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_DYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BONE_MEAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUGAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAKE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_BED:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKIE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRAFTER:
+    sell: -1
+    buy: -1
+    buyType: none
+  FILLED_MAP:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHEARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MELON_SLICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRIED_KELP:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUMPKIN_SEEDS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MELON_SEEDS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEEF:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_BEEF:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHICKEN:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_CHICKEN:
+    sell: -1
+    buy: -1
+    buyType: none
+  ROTTEN_FLESH:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDER_PEARL:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLAZE_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  GHAST_TEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLD_NUGGET:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_WART:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLASS_BOTTLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POTION:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPIDER_EYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FERMENTED_SPIDER_EYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLAZE_POWDER:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGMA_CREAM:
+    sell: -1
+    buy: -1
+    buyType: none
+  BREWING_STAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAULDRON:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDER_EYE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLISTERING_MELON_SLICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHICKEN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  COW_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PIG_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHEEP_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAMEL_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  DONKEY_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  HORSE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  MULE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PARROT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOLF_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARMADILLO_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  FOX_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOAT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  LLAMA_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  OCELOT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PANDA_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLAR_BEAR_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  RABBIT_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  AXOLOTL_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  COD_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  DOLPHIN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  FROG_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOW_SQUID_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  NAUTILUS_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUFFERFISH_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SALMON_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SQUID_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  TADPOLE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  TROPICAL_FISH_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  TURTLE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ALLAY_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOOSHROOM_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNIFFER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_GOLEM_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_GOLEM_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNOW_GOLEM_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRADER_LLAMA_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  VILLAGER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WANDERING_TRADER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOGGED_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAMEL_HUSK_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  DROWNED_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  HUSK_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PARCHED_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SKELETON_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SKELETON_HORSE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRAY_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WITHER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WITHER_SKELETON_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIE_HORSE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIE_NAUTILUS_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIE_VILLAGER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAVE_SPIDER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPIDER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BREEZE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CREAKING_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  CREEPER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ELDER_GUARDIAN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  GUARDIAN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PHANTOM_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SILVERFISH_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SLIME_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARDEN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  WITCH_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  EVOKER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PILLAGER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAVAGER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  VINDICATOR_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  VEX_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLAZE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  GHAST_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  HAPPY_GHAST_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  HOGLIN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGMA_CUBE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PIGLIN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  PIGLIN_BRUTE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  STRIDER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOGLIN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIFIED_PIGLIN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDER_DRAGON_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDERMAN_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENDERMITE_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHULKER_SPAWN_EGG:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPERIENCE_BOTTLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIRE_CHARGE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WIND_CHARGE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WRITABLE_BOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  WRITTEN_BOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  BREEZE_ROD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MACE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ITEM_FRAME:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOW_ITEM_FRAME:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOWER_POT:
+    sell: -1
+    buy: -1
+    buyType: none
+  CARROT:
+    sell: -1
+    buy: -1
+    buyType: none
+  POTATO:
+    sell: -1
+    buy: -1
+    buyType: none
+  BAKED_POTATO:
+    sell: -1
+    buy: -1
+    buyType: none
+  POISONOUS_POTATO:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAP:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_CARROT:
+    sell: -1
+    buy: -1
+    buyType: none
+  SKELETON_SKULL:
+    sell: -1
+    buy: -1
+    buyType: none
+  WITHER_SKELETON_SKULL:
+    sell: -1
+    buy: -1
+    buyType: none
+  PLAYER_HEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  ZOMBIE_HEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  CREEPER_HEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRAGON_HEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  PIGLIN_HEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_STAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  PUMPKIN_PIE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIREWORK_ROCKET:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIREWORK_STAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  ENCHANTED_BOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHER_BRICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESIN_BRICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_SHARD:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRISMARINE_CRYSTALS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RABBIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_RABBIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  RABBIT_STEW:
+    sell: -1
+    buy: -1
+    buyType: none
+  RABBIT_FOOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  RABBIT_HIDE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARMOR_STAND:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEATHER_HORSE_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  LEAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  NAME_TAG:
+    sell: -1
+    buy: -1
+    buyType: none
+  COMMAND_BLOCK_MINECART:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  COOKED_MUTTON:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_BANNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  END_CRYSTAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHORUS_FRUIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  POPPED_CHORUS_FRUIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  TORCHFLOWER_SEEDS:
+    sell: -1
+    buy: -1
+    buyType: none
+  PITCHER_POD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEETROOT:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEETROOT_SEEDS:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEETROOT_SOUP:
+    sell: -1
+    buy: -1
+    buyType: none
+  DRAGON_BREATH:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPLASH_POTION:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPECTRAL_ARROW:
+    sell: -1
+    buy: -1
+    buyType: none
+  TIPPED_ARROW:
+    sell: -1
+    buy: -1
+    buyType: none
+  LINGERING_POTION:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHIELD:
+    sell: -1
+    buy: -1
+    buyType: none
+  WOODEN_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONE_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_SPEAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  TOTEM_OF_UNDYING:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHULKER_SHELL:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_NUGGET:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_NUGGET:
+    sell: -1
+    buy: -1
+    buyType: none
+  KNOWLEDGE_BOOK:
+    sell: -1
+    buy: -1
+    buyType: none
+  DEBUG_STICK:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_13:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_CAT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_BLOCKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_CHIRP:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_CREATOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_CREATOR_MUSIC_BOX:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_FAR:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_LAVA_CHICKEN:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_MALL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_MELLOHI:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_STAL:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_STRAD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_WARD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_11:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_WAIT:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_OTHERSIDE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_RELIC:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_5:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_PIGSTEP:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_PRECIPICE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MUSIC_DISC_TEARS:
+    sell: -1
+    buy: -1
+    buyType: none
+  DISC_FRAGMENT_5:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRIDENT:
+    sell: -1
+    buy: -1
+    buyType: none
+  NAUTILUS_SHELL:
+    sell: -1
+    buy: -1
+    buyType: none
+  IRON_NAUTILUS_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOLDEN_NAUTILUS_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  DIAMOND_NAUTILUS_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_NAUTILUS_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_NAUTILUS_ARMOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  HEART_OF_THE_SEA:
+    sell: -1
+    buy: -1
+    buyType: none
+  CROSSBOW:
+    sell: -1
+    buy: -1
+    buyType: none
+  SUSPICIOUS_STEW:
+    sell: -1
+    buy: -1
+    buyType: none
+  LOOM:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOWER_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  CREEPER_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SKULL_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOJANG_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOBE_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  PIGLIN_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOW_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  GUSTER_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  FIELD_MASONED_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BORDURE_INDENTED_BANNER_PATTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  GOAT_HORN:
+    sell: -1
+    buy: -1
+    buyType: none
+  COMPOSTER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BARREL:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMOKER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLAST_FURNACE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CARTOGRAPHY_TABLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLETCHING_TABLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRINDSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMITHING_TABLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  STONECUTTER:
+    sell: -1
+    buy: -1
+    buyType: none
+  BELL:
+    sell: -1
+    buy: -1
+    buyType: none
+  LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SOUL_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_LANTERN:
+    sell: -1
+    buy: -1
+    buyType: none
+  SWEET_BERRIES:
+    sell: -1
+    buy: -1
+    buyType: none
+  GLOW_BERRIES:
+    sell: -1
+    buy: -1
+    buyType: none
+  CAMPFIRE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SOUL_CAMPFIRE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHROOMLIGHT:
+    sell: -1
+    buy: -1
+    buyType: none
+  HONEYCOMB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEE_NEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  BEEHIVE:
+    sell: -1
+    buy: -1
+    buyType: none
+  HONEY_BOTTLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  HONEYCOMB_BLOCK:
+    sell: -1
+    buy: -1
+    buyType: none
+  LODESTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRYING_OBSIDIAN:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACKSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACKSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACKSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  GILDED_BLACKSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CHISELED_POLISHED_BLACKSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_BRICK_SLAB:
+    sell: -1
+    buy: -1
+    buyType: none
+  POLISHED_BLACKSTONE_BRICK_STAIRS:
+    sell: -1
+    buy: -1
+    buyType: none
+  CRACKED_POLISHED_BLACKSTONE_BRICKS:
+    sell: -1
+    buy: -1
+    buyType: none
+  RESPAWN_ANCHOR:
+    sell: -1
+    buy: -1
+    buyType: none
+  CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WHITE_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ORANGE_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  MAGENTA_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_BLUE_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  YELLOW_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIME_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PINK_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GRAY_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  LIGHT_GRAY_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  CYAN_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  PURPLE_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLUE_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BROWN_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  GREEN_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RED_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLACK_CANDLE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SMALL_AMETHYST_BUD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MEDIUM_AMETHYST_BUD:
+    sell: -1
+    buy: -1
+    buyType: none
+  LARGE_AMETHYST_BUD:
+    sell: -1
+    buy: -1
+    buyType: none
+  AMETHYST_CLUSTER:
+    sell: -1
+    buy: -1
+    buyType: none
+  POINTED_DRIPSTONE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OCHRE_FROGLIGHT:
+    sell: -1
+    buy: -1
+    buyType: none
+  VERDANT_FROGLIGHT:
+    sell: -1
+    buy: -1
+    buyType: none
+  PEARLESCENT_FROGLIGHT:
+    sell: -1
+    buy: -1
+    buyType: none
+  FROGSPAWN:
+    sell: -1
+    buy: -1
+    buyType: none
+  ECHO_SHARD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BRUSH:
+    sell: -1
+    buy: -1
+    buyType: none
+  NETHERITE_UPGRADE_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  DUNE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COAST_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WILD_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WARD_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  EYE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  VEX_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  TIDE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RIB_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  RAISER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  HOST_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOW_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  BOLT_ARMOR_TRIM_SMITHING_TEMPLATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  ANGLER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARCHER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  ARMS_UP_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BLADE_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BREWER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  BURN_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  DANGER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPLORER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  FLOW_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  FRIEND_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  GUSTER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  HEART_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  HEARTBREAK_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  HOWL_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MINER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  MOURNER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  PLENTY_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  PRIZE_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SCRAPE_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHEAF_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SHELTER_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SKULL_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  SNORT_POTTERY_SHERD:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_GRATE:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_BULB:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_CHEST:
+    sell: -1
+    buy: -1
+    buyType: none
+  COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  EXPOSED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WEATHERED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  OXIDIZED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_EXPOSED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_WEATHERED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  WAXED_OXIDIZED_COPPER_GOLEM_STATUE:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRIAL_SPAWNER:
+    sell: -1
+    buy: -1
+    buyType: none
+  TRIAL_KEY:
+    sell: -1
+    buy: -1
+    buyType: none
+  OMINOUS_TRIAL_KEY:
+    sell: -1
+    buy: -1
+    buyType: none
+  VAULT:
+    sell: -1
+    buy: -1
+    buyType: none
+  OMINOUS_BOTTLE:
+    sell: -1
+    buy: -1
+    buyType: none
